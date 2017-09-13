@@ -33,7 +33,7 @@
 #include "diag/Trace.h"
 #include "Timer.h"
 
-// ----------------------------------------------------------------------------
+// ----this is my test proj------------------------------------------------------------------------
 //
 // Print a greeting message on the trace device and enter a loop
 // to count seconds.
